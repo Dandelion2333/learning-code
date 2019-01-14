@@ -5,7 +5,12 @@ create a new branch is quick and simple
 2.在客户端输入n,即可得设备号
 >>>>>>> dev
 
+<<<<<<< HEAD
 dev1
 add dev1
 
 add issue-101已经解决
+=======
+代码出现了bug，我必须停止手中的工作，去处理bug
+
+>>>>>>> dev
