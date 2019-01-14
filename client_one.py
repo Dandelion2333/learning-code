@@ -1,7 +1,7 @@
 #!/usr/bin/env python2.7
 #-*- coding: UTF-8 -*-
 
-#功能：输入n则获取编号，输入其他则不处理
+#功能：输入n则获取编号，输入其他则不处理    by:liangchengpeng
 
 import socket
 import string
